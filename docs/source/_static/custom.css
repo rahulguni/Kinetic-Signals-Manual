@@ -1,0 +1,23 @@
+body {
+  font-family: Roboto;
+}
+
+.rst-content .toctree-wrapper > p.caption,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+legend {
+  font-family: Roboto !important;
+}
+
+.wy-side-nav-search input[type='text'] {
+  border-radius: 5px;
+  border-color: #fff;
+}
+
+.wy-nav-content a:visited {
+  color: #2980b9;
+}
