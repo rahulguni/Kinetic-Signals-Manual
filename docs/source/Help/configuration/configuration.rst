@@ -17,7 +17,7 @@ Pellentesque dictum dui sem, non placerat tortor rhoncus in. Sed placerat nulla 
 
 ---------
 
-1. :doc:`Corridors`
+1. :doc:`corridors`
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed condimentum nulla vel neque venenatis,
 nec placerat lorem placerat. Cras purus eros, gravida vitae tincidunt id, vehicula nec nulla.
@@ -53,6 +53,6 @@ luctus efficitur arcu. Cras ut dictum mi. Nulla congue interdum lorem, semper se
    :caption: Configurations Help
    :hidden:
 
-   Corridors
+   corridors
    intersection-editor
    trafficResponsiveConfig

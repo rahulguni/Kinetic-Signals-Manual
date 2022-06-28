@@ -15,7 +15,7 @@ Aenean pellentesque ex sit amet fringilla semper. Donec tristique sit amet quam 
 Kinetic Signals Modules
 ------------------------
 
-:doc:`Help/alarms/Alarms`
+:doc:`Help/alarms/alarms`
     How to do something with Alarms.
 
 :doc:`Help/analytics/analytics`
@@ -30,7 +30,7 @@ Kinetic Signals Modules
 :doc:`Help/databases/databases_index`
     How to do something with Databases.
 
-:doc:`Help/map/Map`
+:doc:`Help/map/map`
     How to do something with Map.
 
 :doc:`Help/monitoring/monitoring`
@@ -67,12 +67,12 @@ Licensing
    :numbered:
    :hidden:
 
-   Help/alarms/Alarms
+   Help/alarms/alarms
    Help/analytics/analytics
    Help/configuration/configuration
    Help/control/control
    Help/databases/databases_index
-   Help/map/Map
+   Help/map/map
    Help/monitoring/monitoring
    Help/reports/reports
    Help/settings/system-settings
